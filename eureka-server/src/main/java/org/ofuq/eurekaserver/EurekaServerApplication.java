@@ -1,4 +1,4 @@
-package org.example.eurekaserver;
+package org.ofuq.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
